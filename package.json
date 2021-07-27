@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-mat-sz",
+  "version": "1.1.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "redux-saga"
+  ],
+  "description": "Personal template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mat-sz/cra-template-mat-sz.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/mat-sz/cra-template-mat-sz/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
